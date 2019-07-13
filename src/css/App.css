@@ -1,0 +1,29 @@
+
+
+.App {
+  margin: 20px;
+}
+
+.search {
+  width: 300px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.user-card {
+  border-bottom: 1px solid;
+  padding: 10px;
+  /* height: 120px; */
+  overflow: scroll;
+}
+
+.user-card--hover {
+  background: lightyellow;
+}
+
+.list-container {
+  max-width: 500px;
+  max-height: 500px;
+  border: 1px solid;
+  overflow: scroll;
+}
